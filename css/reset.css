@@ -1,0 +1,37 @@
+body, html, ul, li, a{
+	padding: 0;
+	margin: 0;
+	/*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Oswald', sans-serif;	
+}
+
+*:focus,
+*:visited,
+*:active,
+*:hover {
+	outline:0;
+}
+*::-moz-focus-inner {
+	border:0;
+}
+
+/*reset per il natural language*/
+.nl-form ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.nl-form select,
+.nl-form input[type="submit"]{
+	border: none;
+	background: transparent;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background-color: white;
+	font-weight: inherit;
+	line-height: inherit;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
