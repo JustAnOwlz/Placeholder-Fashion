@@ -1,0 +1,8 @@
+"username";"password";"email";"indirizzo";"nome";"cognome";"ruolo";"uuid"
+"admin";"admin";"admin@sito.it";"via admin, 42";"ad";"min";"admin";""
+"cosimo";"cosimo";"cosimi@cosimo.cosimo";"cosimo, c051m0";"cosimo";"cosmaio";"admin";""
+"fravit";"fravit";"fra@vit.com";"via a caso, 11";"Francesco";"Vitale";"utente";""
+"mery";"manuelscemo";"mluisa00@libero.it";"Via verdi, 13";"Marialuisa";"Trere";"utente";""
+"owlz";"owlz";"luca@diluccio.it";"via guido, 99";"Luca";"Di Luccio";"utente";""
+"simona";"simona_1";"simonasantoro@outlook.com";"via geraldo,23";"simona";"santoro";"utente";""
+"utente";"utente";"utente@utente.it";"Via degli utenti";"utentesss";"sssutente";"utente";""
