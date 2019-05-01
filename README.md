@@ -1,7 +1,7 @@
 # Progetto Programmazione Web 2017
-L'esame era alle porte e non avevo per nulla voglia di impegnarmi, è stato un mese lungo ma il *30* è arrivato.
+L'esame era alle porte e non avevo per nulla voglia di impegnarmi, è stato un mese lungo.
 
-Più che una repository, è un backup per il futuro ed un test per imparare ad usare git.
+Questo è un backup per il futuro ed un test per imparare ad usare git.
 
 ### INFO (per me del futuro)
 * È tutto già compilato, buttalo in tomcat e spera in dio.
@@ -11,4 +11,4 @@ Più che una repository, è un backup per il futuro ed un test per imparare ad u
 
 ### IMMAGINI
 * Le foto dei capi sono quasi tutte prese da Pull&Bear, in ogni caso i diritti sulle foto sono dei rispettivi proprietari.
-* Un "graziessimo" a [unsplash](https://unsplash.com/) e [pexels](https://www.pexels.com) per le immagini stock senza problemi di copyright.
+* Immagini stock prese da [unsplash](https://unsplash.com/) e [pexels](https://www.pexels.com).
